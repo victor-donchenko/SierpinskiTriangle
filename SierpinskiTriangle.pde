@@ -8,7 +8,6 @@ public void setup() {
 
 public void draw() {
   background(color(0xff, 0xff, 0xff));
-  System.out.println("draw");
   sierpinski(
     0,
     0,
