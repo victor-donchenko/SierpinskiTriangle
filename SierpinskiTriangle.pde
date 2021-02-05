@@ -3,7 +3,7 @@ float translate_x = 0;
 float translate_y = 0;
 
 public void setup() {
-  surface.setResizable(true);
+  size(500, 500);
 }
 
 public void draw() {
